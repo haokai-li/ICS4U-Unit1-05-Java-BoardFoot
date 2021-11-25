@@ -22,16 +22,6 @@ final class BoardFoot {
     public static final int EX = 144;
 
     /**
-    * SIX variable.
-    */
-    public static final int SIX = 6;
-
-    /**
-    * One variable.
-    */
-    public static final int ONE = 1;
-
-    /**
     * Prevent instantiation.
     * Throw an exception IllegalStateException.
     * if this ever is called
