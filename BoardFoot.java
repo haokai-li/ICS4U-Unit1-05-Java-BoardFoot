@@ -45,7 +45,7 @@ final class BoardFoot {
 
     static double calculate(final double width, final double height) {
         // calculate
-        final double hMany = (width * height) / EX;
+        final double hMany = EX / (width * height);
 
         // return
         return hMany;
